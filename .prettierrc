@@ -1,0 +1,12 @@
+{
+    "bracketSpacing": true,
+    "printWidth": 160,
+    "tabWidth": 4,
+    "useTabs": false,
+    "semi": false,
+    "singleQuote": true,
+    "trailingComma": "none",
+    "endOfLine": "auto",
+    "prettier.ignorePath": ".prettierignore",
+    "quoteProps": "preserve"
+}

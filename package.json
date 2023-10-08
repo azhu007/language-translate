@@ -4,6 +4,7 @@
   "description": "A plug-in that can translate ts/js/json multilingual files online and generate or insert specified files in batches",
   "scripts": {
     "build": "rimraf ./dist && tsc",
+    "start": "translate",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix"
   },
@@ -59,6 +60,7 @@
     "commander": "^10.0.0",
     "fast-glob": "^3.2.12",
     "inquirer": "^9.1.5",
+    "language-translate": "^2.2.3",
     "tunnel": "^0.0.6",
     "typeof-plus": "^1.0.5",
     "unconfig": "^0.3.5"
